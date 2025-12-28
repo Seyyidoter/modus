@@ -64,7 +64,7 @@ Get the application running in less than 5 minutes!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/modus-erp.git
+   git clone https://github.com/Seyyidoter/modus.git
    cd modus-erp
    ```
 
