@@ -10,7 +10,7 @@
 
 ## 📸 Dashboard Preview
 
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/6dbecc7f-7cc6-4d94-975f-6e086dae133d" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/8ed962d4-9cce-4270-b813-78f4a315ab3f" />
 
 
 ## ✨ Key Features
