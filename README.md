@@ -10,8 +10,8 @@
 
 ## 📸 Dashboard Preview
 
-![Modus Dashboard](dashboard-screenshot.png)
-*(Place your screenshot here)*
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/6dbecc7f-7cc6-4d94-975f-6e086dae133d" />
+
 
 ## ✨ Key Features
 
