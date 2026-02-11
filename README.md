@@ -15,20 +15,20 @@
 
 ## Key Features
 
-- ** Role-Based Access Control (RBAC):** Secure authentication with JWT. Admin and User roles with specific permissions (e.g., only Admin can create products).
-- ** Advanced Stock Management:** 
+- Role-Based Access Control (RBAC): Secure authentication with JWT. Admin and User roles with specific permissions (e.g., only Admin can create products).
+- Advanced Stock Management: 
   - Multi-warehouse support.
   - Track Stock IN/OUT and Transfers between warehouses.
   - Detailed product history logs.
-- ** Demand-to-Offer Workflow:**
+- Demand-to-Offer Workflow:
   - Create internal demands for products.
-  - One-click conversion from **Demand** to **Customer Offer**.
+  - One-click conversion from Demand to Customer Offer.
   - Intelligent form pre-filling.
-- ** Internationalization (i18n):**
-  - Instant language switching between **English** and **Turkish**.
-- ** Multi-Currency Support:**
-  - Create offers in **USD**, **EUR**, or **TRY**.
-- ** Interactive Dashboard:**
+- Internationalization (i18n):
+  - Instant language switching between English and Turkish.
+- Multi-Currency Support:
+  - Create offers in USD, EUR, or TRY.
+- Interactive Dashboard:
   - Real-time statistics, low stock alerts, and recent activity feeds.
   - Visual trend indicators.
 
