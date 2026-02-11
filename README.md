@@ -8,31 +8,31 @@
 
 **Modus ERP** is a modern, full-stack Inventory and Order Management System designed solely for flexibility and speed. It facilitates seamless workflows from internal demands to customer offers, managing stock with precision.
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/8ed962d4-9cce-4270-b813-78f4a315ab3f" />
 
 
-## ✨ Key Features
+## Key Features
 
-- **🔐 Role-Based Access Control (RBAC):** Secure authentication with JWT. Admin and User roles with specific permissions (e.g., only Admin can create products).
-- **📦 Advanced Stock Management:** 
+- ** Role-Based Access Control (RBAC):** Secure authentication with JWT. Admin and User roles with specific permissions (e.g., only Admin can create products).
+- ** Advanced Stock Management:** 
   - Multi-warehouse support.
   - Track Stock IN/OUT and Transfers between warehouses.
   - Detailed product history logs.
-- **🔄 Demand-to-Offer Workflow:**
+- ** Demand-to-Offer Workflow:**
   - Create internal demands for products.
   - One-click conversion from **Demand** to **Customer Offer**.
   - Intelligent form pre-filling.
-- **🌍 Internationalization (i18n):**
+- ** Internationalization (i18n):**
   - Instant language switching between **English** and **Turkish**.
-- **💱 Multi-Currency Support:**
+- ** Multi-Currency Support:**
   - Create offers in **USD**, **EUR**, or **TRY**.
-- **📊 Interactive Dashboard:**
+- ** Interactive Dashboard:**
   - Real-time statistics, low stock alerts, and recent activity feeds.
   - Visual trend indicators.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **Language:** Java 21 LTS
@@ -53,7 +53,7 @@
 - **Containerization:** Docker & Docker Compose
 - **Network:** Nginx Reverse Proxy (Frontend serving)
 
-## 🚀 Quick Start
+## Quick Start
 
 Get the application running in less than 5 minutes!
 
@@ -85,7 +85,7 @@ The system automatically seeds an Admin user on first run:
 
 *(Note: Change these immediately after first login)*
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 modus/
@@ -100,12 +100,12 @@ modus/
 └── docker-compose.prod.yml
 ```
 
-## 🛡️ Security
+## Security
 
 - **JWT Authentication:** Stateless and secure.
 - **BCrypt:** Password hashing.
 - **Environment Variables:** Credentials are externalized.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
